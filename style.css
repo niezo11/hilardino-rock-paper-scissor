@@ -86,3 +86,20 @@ button:hover {
     font-weight: bold;
     font-size: 20px;
 }
+.settings {
+    margin-bottom: 15px;
+}
+
+.settings input {
+    width: 60px;
+    padding: 5px;
+    border-radius: 6px;
+    border: none;
+    text-align: center;
+}
+
+.settings button {
+    margin-left: 10px;
+    padding: 6px 12px;
+    font-size: 14px;
+}
